@@ -1,0 +1,4 @@
+广州市用地类型_2018
+内容：2018年广州遥感影像的分类结果，lyrx格式，已经过数据上传者人工修正
+获取方式：向21428056@qq.com发送邮件说明需要获取数据的标题
+数据来源：Gong Peng, Chen Bin, Li Xuecao, et al. Mapping essential urban land use categories in China (EULUC-China): preliminary results for 2018. Science Bulletin,2020,65(03):182-187. [宫鹏,陈斌,李雪草,等.2018 年中国基本城市土地利用类型制图(EULUC-China)(英文).Science Bulletin,2020,65(03):182-187.] 

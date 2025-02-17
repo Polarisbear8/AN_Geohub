@@ -1,0 +1,4 @@
+广州市街道级行政区划矢量图
+内容：广州市各个区的地理范围，shp格式
+获取方式：向21428056@qq.com发送邮件说明需要获取数据的标题
+数据来源：Map of streets and towns in the administrative district of Guangzhou shp file. https://gitcode.com/open source-toolkit/a1171,2024-10-15. [广州市行政区各街镇地图 shp 文件.https://gitcode.com/open-source-toolkit/a1171,2024-10-15.]
